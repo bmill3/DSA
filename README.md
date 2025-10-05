@@ -1,2 +1,2 @@
 # DSA
-Data structures and algorithms for CS361 written in Python
+Common data structures and algorithms written in Python.
